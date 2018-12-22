@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;demo2Pk&apos; to &apos;demo2PkConstructor&apos;&#x0A;- Original project: &apos;demo2&apos;&#x0A;- Original element: &apos;demo2/src/demo2Pk&apos;&#x0A;- Renamed element: &apos;demo2/src/demo2PkConstructor&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;demo2Pk&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;demo2Pk" name="demo2PkConstructor" qualified="false" references="true" stamp="1543253979880" textual="false" version="1.0"/>
+</session>

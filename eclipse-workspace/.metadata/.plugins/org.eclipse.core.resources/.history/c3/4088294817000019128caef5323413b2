@@ -1,0 +1,14 @@
+package input;
+//Scanner is a class
+
+import java.util.Scanner;
+
+public class UseScanner {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Plz enter some integer value");
+
+	}
+
+}

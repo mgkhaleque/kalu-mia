@@ -1,0 +1,11 @@
+package input;
+//Scanner is a class
+
+public class UseScanner {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,20 @@
+package Map;
+
+import java.util.HashMap;
+import java.util.Map;
+
+//mapping with String
+
+public class UseHashMap {
+
+	public static void main(String[] args) {
+		Map<String, String> state = new HashMap<String, String>();
+		state.put("USA","NY");
+		state.put("Canada", "Toronto");
+		state.put("UK", "London");
+		
+			System.out.println(state.get("Canada"));
+
+	}
+
+}

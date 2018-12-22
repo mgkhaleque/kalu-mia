@@ -1,0 +1,21 @@
+package DS;
+
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+// printing key word+value altogether using HashMap
+public class UseHashMap2 {
+
+	public static void main(String[] args) {
+		Map <String, String > state = new LinkedHashMap<String, String>();
+		state.put("USA", "NY");
+		state.put("Canada", "Toronto");
+		state.put("UK", "London");
+	
+		
+		
+
+	}
+
+}
